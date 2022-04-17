@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Shamsad Alam Meraj
 - 👀 I’m currently working on something cool
-- 🌱 I’m currently learning "Full Stack Web Development"
+
 
 
 <!---
