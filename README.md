@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md. Shamsad Alam Meraj</h1>
 <h3 align="center">A passionate Frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Job Station](https://github.com/meraj191-35-2735/job-box)
+- 🔭 I’m currently working on [EkkBaz Pte. Ltd](https://ekkbaz.com/)
 
-- 🌱 I’m currently learning **ReduxJS, C#**
+- 🌱 I’m currently learning **NodeJS, Mongoose**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-meraj.web.app/](https://my-portfolio-meraj.web.app/)
 
