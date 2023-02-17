@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Shamsad Alam Meraj</h1>
 <h3 align="center">A passionate Frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [EkkBaz Pte. Ltd](https://ekkbaz.com/)
+- 🔭 I’m currently working as ReactJS Developer Intern in [EkkBaz Pte. Ltd](https://ekkbaz.com/)
 
 - 🌱 I’m currently learning **NodeJS, Mongoose**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shamsad.alam.meraj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NGIWfRtg_smWlZyHHASFf28yKtssrejq/view?usp=sharing](https://drive.google.com/file/d/1NGIWfRtg_smWlZyHHASFf28yKtssrejq/view?usp=sharing)
+- 📄 Know about my experiences in [Resume](https://drive.google.com/file/d/1qpCaIx8ldC8RTdaUVMd14AJ_9XvO5gPN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
